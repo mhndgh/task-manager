@@ -1,3 +1,4 @@
 - Learn Git basics
 - Set up Git repo
 - Practice Git branching
+- Review Git and rebase
